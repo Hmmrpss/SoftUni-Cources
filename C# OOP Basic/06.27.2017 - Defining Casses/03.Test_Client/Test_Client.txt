@@ -1,0 +1,15 @@
+﻿Test Client
+
+Create a test client that tests your BankAccount class.
+
+Support the following commands:
+•	Create {Id}
+•	Deposit {Id} {Amount}
+•	Withdraw {Id} {Amount}
+•	Print {Id}
+•	End
+
+If you try to create an account with existing Id, print "Account already exists".
+If you try to perform an operation on non-existing account with existing Id, print "Account does not exist".
+If you try to withdraw an amount larger than the balance, print "Insufficient balance".
+The Print command should print "Account ID{id}, balance {balance}". Round the balance to the second digit after the decimal separator.

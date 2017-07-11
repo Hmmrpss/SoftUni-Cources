@@ -1,0 +1,15 @@
+﻿Define Person Class
+
+Create a Person class.
+
+The class should have private fields for:
+•	Name: string
+•	Age: int
+•	Accounts: List<BankAccount>
+
+The class should have constructors:
+•	Person(string name, int age)
+•	Person(string name, int age, List<BankAccount> accounts)
+
+The class should also have public methods for:
+•	GetBalance(): double

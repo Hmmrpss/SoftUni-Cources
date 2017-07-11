@@ -1,0 +1,11 @@
+﻿Define Bank Account Class
+
+Create a class named BankAccount.
+
+The class should have private fields for:
+•	id: int
+•	balance: double
+
+The class should also have public properties for:
+•	ID: int
+•	Balance: double

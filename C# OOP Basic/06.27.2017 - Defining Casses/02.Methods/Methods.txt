@@ -1,0 +1,15 @@
+﻿Methods
+
+Create a class BankAccount (you can use class from previous task)
+
+The class should have private fields for:
+•	id: int
+•	balance: double
+
+The class should also have properties for:
+•	ID: int
+•	Balance: double
+•	Deposit(Double amount): void
+•	Withdraw(Double amount): void
+
+Override the method ToString().

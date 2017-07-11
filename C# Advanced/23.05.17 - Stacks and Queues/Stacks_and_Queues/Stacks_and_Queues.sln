@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks_and_Queues", "Stacks_and_Queues\Stacks_and_Queues.csproj", "{6AF11164-CA4E-4C15-B350-66664E4F89CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Reverse_Strings", "01.Reverse_Strings\01.Reverse_Strings.csproj", "{0F2AAF91-A2BC-4E87-903E-BF50E9E32B98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Simple_Calculator", "02.Simple_Calculator\02.Simple_Calculator.csproj", "{FFCFD304-FEBD-4DF8-95C8-2A145848BA1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Decimal_to_Binary_Converter", "03.Decimal_to_Binary_Converter\03.Decimal_to_Binary_Converter.csproj", "{D03AB505-98A3-47E2-A62F-54DE5E2B70CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Matching_Brackets", "Matching_Brackets\04.Matching_Brackets.csproj", "{146C3541-1A8B-4598-99E6-BFAD71F887BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Hot_Potato", "05.Hot_Potato\05.Hot_Potato.csproj", "{2F679BE5-E294-4039-A25E-BA49088B2420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Math_Potato", "06.Math_Potato\06.Math_Potato.csproj", "{ED472776-E8B2-42DA-8706-2FBC7FD24528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AF11164-CA4E-4C15-B350-66664E4F89CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF11164-CA4E-4C15-B350-66664E4F89CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF11164-CA4E-4C15-B350-66664E4F89CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF11164-CA4E-4C15-B350-66664E4F89CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F2AAF91-A2BC-4E87-903E-BF50E9E32B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2AAF91-A2BC-4E87-903E-BF50E9E32B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2AAF91-A2BC-4E87-903E-BF50E9E32B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2AAF91-A2BC-4E87-903E-BF50E9E32B98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFCFD304-FEBD-4DF8-95C8-2A145848BA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCFD304-FEBD-4DF8-95C8-2A145848BA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCFD304-FEBD-4DF8-95C8-2A145848BA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCFD304-FEBD-4DF8-95C8-2A145848BA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D03AB505-98A3-47E2-A62F-54DE5E2B70CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03AB505-98A3-47E2-A62F-54DE5E2B70CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03AB505-98A3-47E2-A62F-54DE5E2B70CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03AB505-98A3-47E2-A62F-54DE5E2B70CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{146C3541-1A8B-4598-99E6-BFAD71F887BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146C3541-1A8B-4598-99E6-BFAD71F887BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146C3541-1A8B-4598-99E6-BFAD71F887BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146C3541-1A8B-4598-99E6-BFAD71F887BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F679BE5-E294-4039-A25E-BA49088B2420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F679BE5-E294-4039-A25E-BA49088B2420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F679BE5-E294-4039-A25E-BA49088B2420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F679BE5-E294-4039-A25E-BA49088B2420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED472776-E8B2-42DA-8706-2FBC7FD24528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED472776-E8B2-42DA-8706-2FBC7FD24528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED472776-E8B2-42DA-8706-2FBC7FD24528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED472776-E8B2-42DA-8706-2FBC7FD24528}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
