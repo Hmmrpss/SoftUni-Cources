@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Define_Bank_Account_Clas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Define_Person_Class", "04.Define_Person_Class\04.Define_Person_Class.csproj", "{6840C112-A597-43BD-A4B0-7ABD2C4D59A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{C650A14F-B9A7-4F0C-8753-8098AC0EAA2C}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Methods", "02.Methods\02.Methods.csproj", "{8D36C167-50E1-420C-985B-2683C10D5F9F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Test_Client", "03.Test_Client\03.Test_Client.csproj", "{C2456676-2F32-48B1-A571-F76BD057494A}"
@@ -25,6 +27,10 @@ Global
 		{6840C112-A597-43BD-A4B0-7ABD2C4D59A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6840C112-A597-43BD-A4B0-7ABD2C4D59A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6840C112-A597-43BD-A4B0-7ABD2C4D59A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C650A14F-B9A7-4F0C-8753-8098AC0EAA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C650A14F-B9A7-4F0C-8753-8098AC0EAA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C650A14F-B9A7-4F0C-8753-8098AC0EAA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C650A14F-B9A7-4F0C-8753-8098AC0EAA2C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8D36C167-50E1-420C-985B-2683C10D5F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8D36C167-50E1-420C-985B-2683C10D5F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D36C167-50E1-420C-985B-2683C10D5F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
